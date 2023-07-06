@@ -10,9 +10,9 @@ Then you will be asked what do you want to build...
 You can either type it out, or hit enter and the script will load prompt.md instead.
 Just edit prompt.md if you want a larger and more detailed prompt.
 
-#Demo:
+# Demo:
   https://youtube.com/nytoCoder/...
-#Tech:
+# Tech:
 - The code imports several modules and packages such as `os`, `sys`, `time`, `json`, `openai`, `ast`, `shutil`, `random`, and custom modules from the `lib` package.
 - It sets the OpenAI API key to a specific value using `openai.api_key = "YOUR_API_KEY"`. This key is necessary to make requests to the OpenAI API.
 - The `AI` class is defined, and it has various methods to interact with the OpenAI API and perform certain operations.

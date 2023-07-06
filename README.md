@@ -2,13 +2,13 @@
 Coder assistant using OpenAI chat-gpt om backgroud. Works similary to auto-gpt, gpt-engineer, smol, etc.
 
 # Usage:
-pip install -r requirements.txt
-python final_main.py
+- pip install -r requirements.txt
+- python final_main.py
 
-You will be asked to enter your project name.
-Then you will be asked what do you want to build... 
-You can either type it out, or hit enter and the script will load prompt.md instead.
-Just edit prompt.md if you want a larger and more detailed prompt.
+- You will be asked to enter your project name.
+- Then you will be asked what do you want to build... 
+- You can either type it out, or hit enter and the script will load prompt.md instead.
+- Just edit prompt.md if you want a larger and more detailed prompt.
 
 # Demo:
   https://youtube.com/nytoCoder/...
